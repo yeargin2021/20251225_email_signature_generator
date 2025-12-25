@@ -85,7 +85,8 @@ generate_signature("Zoe Davis", "Financial Analyst", "Investment Partners")
 ```
 email_signature_generator/
 ├── Mod01.py          # Main module with signature generation function
-└── README.md         # This documentation file
+├── README.md         # This documentation file
+└── LICENSE           # MIT License file
 ```
 
 ## Contributing
